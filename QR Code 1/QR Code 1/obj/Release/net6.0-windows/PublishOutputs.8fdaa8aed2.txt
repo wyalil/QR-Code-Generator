@@ -1,0 +1,6 @@
+C:\Users\mert\Desktop\Exeler\QR Code 1.exe
+C:\Users\mert\Desktop\Exeler\QR Code 1.dll
+C:\Users\mert\Desktop\Exeler\QR Code 1.deps.json
+C:\Users\mert\Desktop\Exeler\QR Code 1.runtimeconfig.json
+C:\Users\mert\Desktop\Exeler\QR Code 1.pdb
+C:\Users\mert\Desktop\Exeler\QRCoder.dll

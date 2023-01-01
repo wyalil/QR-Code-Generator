@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "qYnbvhrV/cKH3UC7E6ijBGneCf9nGU7dBUV8xl12VJ1X864i2SFlVwPV1tv8fOQz4fFTccy2DLxZi4HR0e/F4Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mert\\source\\repos\\QR Code 1\\QR Code 1\\QR Code 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mert\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\mert\\.nuget\\packages\\qrcoder\\1.4.3\\qrcoder.1.4.3.nupkg.sha512",
+    "C:\\Users\\mert\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

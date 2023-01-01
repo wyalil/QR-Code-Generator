@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QR Code 1", "QR Code 1\QR Code 1.csproj", "{447872E7-598A-4F66-8F6A-7122FE5698CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{447872E7-598A-4F66-8F6A-7122FE5698CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{447872E7-598A-4F66-8F6A-7122FE5698CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{447872E7-598A-4F66-8F6A-7122FE5698CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{447872E7-598A-4F66-8F6A-7122FE5698CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {785CD4AF-5AB1-488B-A124-2E743EA9125B}
+	EndGlobalSection
+EndGlobal
